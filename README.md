@@ -1,6 +1,6 @@
 # 📝 Blogging Application
 
-A full-stack blogging platform built with **Node.js**, **Express**, **EJS**, and **MongoDB**. Users can create, read, update, and delete blog posts with a clean and dynamic interface.
+A full-stack blogging platform built with **Node.js**, **Express**, and **MongoDB**. Users can create, read, update, and delete blog posts with a clean and dynamic interface.
 
 ---
 
